@@ -38,9 +38,9 @@ Unity (C#) | Photoshop | Clip Studio Paint  |  Git
 ---
 
 ## 🌱 What I’m Currently Working On
-- 🔨 Building **EUCcheduler** (Student–Teacher scheduling system).  
 - 📱 Exploring **Flutter & Unity** for cross-platform app/game development.  
-- 🌐 Expanding my **portfolio website**.  
+- 🌐 Expanding my **portfolio website**.
+- 🔎 Searching for a **Job** 
 
 ---
 
