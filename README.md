@@ -45,7 +45,7 @@ Unity (C#) | Photoshop | Clip Studio Paint
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kenrick-driz/))  
+- 💼 [LinkedIn] (https://www.linkedin.com/in/kenrick-driz/)  
 - ✉️ Email: *dkenrick11@gmail.com*  
 
 ---
