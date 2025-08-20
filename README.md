@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**  
 
-Welcome to my GitHub! I’m passionate about building applications that combine functionality and creativity. My interests span across **web development, mobile apps, and game development**. I enjoy experimenting with new technologies, solving real-world problems, and continuously improving my coding skills.  
+Welcome to my GitHub! I’m passionate about building applications that combine functionality and creativity. My interests span across **web development, mobile apps, and game development**. I enjoy experimenting with new technologies, designing a good user interface, and continuously improving my coding skills.  
 
 ---
 
@@ -26,7 +26,7 @@ Flutter | HTML | CSS | Bootstrap
 Node.js | Git | GitHub  
 
 **Others:**  
-Unity (C#) | Photoshop | Clip Studio Paint  
+Unity (C#) | Photoshop | Clip Studio Paint  |  Git
 
 ---
 
