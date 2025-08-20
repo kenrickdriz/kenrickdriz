@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Kenrick 👋  
 
-<!--
-**kenrickdriz/kenrickdriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building applications that combine functionality and creativity. My interests span across **web development, mobile apps, and game development**. I enjoy experimenting with new technologies, solving real-world problems, and continuously improving my coding skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🎓 Currently gaining hands-on experience through internships and projects.  
+- 💻 Skilled in **C++, Dart, Python, Java, Node.js, PHP, SQL**.  
+- 🎨 Comfortable with **frontend frameworks** like Flutter, HTML, CSS, and Bootstrap.  
+- 🎮 Interested in **Unity game development** and interactive applications.  
+- 📚 Always eager to learn more about software engineering best practices and clean code.  
+
+---
+
+## 🔧 Tech Stack
+**Languages:**  
+C++ | Dart | Python | JavaScript | 
+
+**Frontend:**  
+Flutter | HTML | CSS | Bootstrap  
+
+**Backend & Tools:**  
+Node.js | Git | GitHub  
+
+**Others:**  
+Unity (C#) | Photoshop | Clip Studio Paint  
+
+---
+
+## 📊 GitHub Stats
+![Kenrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenrickdriz&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenrickdriz&layout=compact&theme=radical)  
+
+---
+
+## 🌱 What I’m Currently Working On
+- 🔨 Building **EUCcheduler** (Student–Teacher scheduling system).  
+- 📱 Exploring **Flutter & Unity** for cross-platform app/game development.  
+- 🌐 Expanding my **portfolio website**.  
+
+---
+
+## 📫 How to Reach Me
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kenrick-driz/))  
+- ✉️ Email: *dkenrick11@gmail.com*  
+
+---
+
