@@ -8,7 +8,6 @@ Welcome to my GitHub! I’m passionate about building applications that combine 
 
 ## 🌟 About Me
 - 🎓 Currently gaining hands-on experience through internships and projects.  
-- 💻 Skilled in **C++, Dart, Python, Java, Node.js, PHP, SQL**.  
 - 🎨 Comfortable with **frontend frameworks** like Flutter, HTML, CSS, and Bootstrap.  
 - 🎮 Interested in **Unity game development** and interactive applications.  
 - 📚 Always eager to learn more about software engineering best practices and clean code.  
